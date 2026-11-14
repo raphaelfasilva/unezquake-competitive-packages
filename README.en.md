@@ -8,8 +8,8 @@ Ready-to-play packages of **unezQuake** (the ezQuake fork used in competitive pl
 
 | Folder | Description |
 |---|---|
-| `Unezquake_with_grey_texture` | unezQuake/ezQuake with **grey map textures** and **solid-color fullbright skins**, both widely used in competitive play. |
-| `Unezquake_without_grey_texture` | unezQuake/ezQuake **without the grey textures** (uses the original nQuake texture pack) and with **solid-color fullbright skins**. |
+| `unezquake_with_grey_texture` | unezQuake/ezQuake with **grey map textures** and **solid-color fullbright skins**, both widely used in competitive play. |
+| `unezquake_without_grey_texture` | unezQuake/ezQuake **without the grey textures** (uses the original nQuake texture pack) and with **solid-color fullbright skins**. |
 
 Fullbright skins paint each player in a solid, bright color that doesn't get darker in shadowed areas, so it's easy to tell who is who:
 
@@ -79,15 +79,15 @@ Type in the console (`` ` `` key):
 | Command | Description |
 |---|---|
 | `ktx` | Enable the KTX mod (to play against bots) |
-| `qwbrazilktx` | Connect to QW Brazil KTX server #1 |
-| `qwbrazilktx2` | Connect to QW Brazil KTX server #2 (dedicated to practice) |
-| `qwbraziltd2` | Connect to the QW Brazil Total Destruction server |
+| `qwbrktx` | Connect to QW Brazil KTX server #1 |
+| `qwbrktx2` | Connect to QW Brazil KTX server #2 (dedicated to practice) |
+| `qwbrtd2` | Connect to the QW Brazil Total Destruction server |
 
 > KTX lives in a separate folder and is **not loaded automatically**, since most people play on servers. To play against bots, type `ktx` in the console **before loading a map or joining a server**. Once a map is loaded, the command can't switch to the mod.
 
 ## Author
 
-Package put together by **CrazyKiller**.
+Package put together by **CrazyKillerBR**.
 
 Questions, suggestions or issues: reach out on Discord at **`crazykillerbr`**.
 

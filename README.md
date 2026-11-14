@@ -8,8 +8,8 @@ Pacotes prontos do **unezQuake** (fork do ezQuake usado no competitivo) e do **e
 
 | Pasta | Descrição |
 |---|---|
-| `Unezquake_with_grey_texture` | unezQuake/ezQuake com **textura cinza** nos mapas e **skins fullbright de cor sólida**, ambos muito usados no competitivo. |
-| `Unezquake_without_grey_texture` | unezQuake/ezQuake **sem a textura cinza** (usa o pacote de texturas original do nQuake) e com **skins fullbright de cor sólida**. |
+| `unezquake_with_grey_texture` | unezQuake/ezQuake com **textura cinza** nos mapas e **skins fullbright de cor sólida**, ambos muito usados no competitivo. |
+| `unezquake_without_grey_texture` | unezQuake/ezQuake **sem a textura cinza** (usa o pacote de texturas original do nQuake) e com **skins fullbright de cor sólida**. |
 
 As skins fullbright pintam cada jogador com uma cor sólida e brilhante, que não escurece nas áreas com sombra, então fica fácil identificar quem é quem:
 
@@ -79,15 +79,15 @@ Digite no console (tecla `` ` ``):
 | Comando | Descrição |
 |---|---|
 | `ktx` | Ativa o mod KTX (para jogar com bots) |
-| `qwbrazilktx` | Entra no servidor #1 de KTX do QW Brazil |
-| `qwbrazilktx2` | Entra no servidor #2 de KTX do QW Brazil (dedicado para treino) |
-| `qwbraziltd2` | Entra no servidor de Total Destruction do QW Brazil |
+| `qwbrktx` | Entra no servidor #1 de KTX do QW Brazil |
+| `qwbrktx2` | Entra no servidor #2 de KTX do QW Brazil (dedicado para treino) |
+| `qwbrtd2` | Entra no servidor de Total Destruction do QW Brazil |
 
 > O KTX fica em uma pasta separada e **não é carregado automaticamente**, já que a maioria das pessoas joga em servidores. Se quiser jogar com bots, digite `ktx` no console **antes de carregar um mapa ou entrar em um servidor**. Com um mapa já carregado, o comando não consegue trocar para o mod.
 
 ## Autor
 
-Pacote montado por **CrazyKiller**.
+Pacote montado por **CrazyKillerBR**.
 
 Dúvidas, sugestões ou problemas: chama no Discord **`crazykillerbr`**.
 
