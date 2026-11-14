@@ -1,0 +1,42 @@
+Title                   : Bravado
+Filename                : bravado.bsp
+release                 : 9/26/97
+Author                  : D.Rhodd
+                         
+Email Address           : bigd@flex.net
+WWW                     : http://www.flex.net/~bigd/q.html
+
+Description             : DM only,8 starts, medium sized
+
+Additional Credits to   : Id software who owns Quake and all the 
+			  textures herein
+* Play Information *
+
+Single Player           : Yes, with bots!
+Deathmatch 2-6 Player   : Yes
+Deathmatch 2-8 Player   : There are 8 starts but 8 will be a little tight
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known Compatible Mods   : bots, baby. 
+
+* Construction *  
+
+DM info                 : no exit
+Other Info              : All weapons present save greande launcher, 
+			  no red armor, no quad, no pentagram, no ring 
+                          
+
+Editor(s) used          : BSP, Arghlite
+
+Build Times             : On my P120 with win95 and 24 RAM-
+	                  qbsp -110 seconds
+                          extra light - 114 seconds
+		          full vis - 5 mins 7 seconds
+
+Where to get other
+Quake Levels            :http://www.planetquake.com/talon/
+
+http://www.geocities.com/SiliconValley/Heights/1587/
+			 
+ 			
